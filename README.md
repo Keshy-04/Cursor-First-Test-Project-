@@ -38,19 +38,35 @@ You'll be presented with options:
 
 ### Key Mappings
 
-- `D` → D note
-- `F` → F note
-- `G` → G note
-- `H` → A note
-- `T` → E note
-- `K` → B note
-- `;` → C5 note
-- `L` → C5 note
-- `J` → A note
-- `Y` → G note
-- `U` → F note
-- `'` → C5 note
-- `Enter` → Rest/pause
+The computer keyboard is mapped 1-to-1 to a piano keyboard, starting from the
+letter **A** as the first white key:
+
+- **White keys (bottom row)**
+
+  - `A` → C
+  - `S` → D
+  - `D` → E
+  - `F` → F
+  - `G` → G
+  - `H` → A
+  - `J` → B
+  - `K` → C5
+  - `L` → D5
+  - `;` → E5
+  - `'` → F5
+
+- **Black keys (top row)**
+
+  - `W` → C#
+  - `E` → D#
+  - `T` → F#
+  - `Y` → G#
+  - `U` → A#
+  - `O` → C#5
+  - `P` → D#5
+
+- **Other**
+  - `Enter` → Rest/pause
 
 ### Song Identification
 
